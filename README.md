@@ -1,12 +1,12 @@
-## Experiment 20 – GitHub Version Control
+# Experiment 20 – GitHub Version Control
 
 
-# Objective
+## Objective
 
-# To implement version control using Git and GitHub.
+## To implement version control using Git and GitHub.
 
 
-# Steps Performed
+## Steps Performed
 
 1\. Created a GitHub repository named 20-experiment.
 
@@ -32,33 +32,30 @@
 
 8\. Documented the workflow in README.md.
 
-# 
+ 
+## Repository Structure
 
-# Repository Structure
 
-# 
 
-# 20-experiment/
+## 20-experiment/
 
-# ├── README.md
+  ├── README.md
 
-# ├── module1/
+  ├── module1/
 
-# │   └── file1.txt
+  │   └── file1.txt
 
-# └── module2/
+  └── module2/
 
-# └── file2.txt
+  └── file2.txt
 
-# 
+ 
 
-# Outcome
+## Outcome
 
-# 
-
+ 
  Successfully implemented version control using Git and GitHub by creating branches, merging changes, and maintaining project history.
 
 
 ## Repository Link
 https://github.com/Sirivally0108/20-experiment
-
