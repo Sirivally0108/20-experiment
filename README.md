@@ -1,71 +1,55 @@
-# \# Experiment 20 – GitHub Version Control
+# Experiment 20 – GitHub Version Control
 
-# 
 
-# \## Objective
+## Objective
 
-# 
+## To implement version control using Git and GitHub.
 
-# To implement version control using Git and GitHub.
 
-# 
+## Steps Performed
 
-# \## Steps Performed
+1\. Created a GitHub repository named 20-experiment.
 
-# 
+2\. Cloned the repository locally.
 
-# 1\. Created a GitHub repository named 20-experiment.
+3\. Created branches:
 
-# 2\. Cloned the repository locally.
+ 
 
-# 3\. Created branches:
+ &#x20;  \* main
+ 
+ &#x20;  \* module1
 
-# 
+ &#x20;  \* module2
 
-# &#x20;  \* main
+4\. Added files to individual module branches.
 
-# &#x20;  \* module1
+5\. Committed and pushed changes.
 
-# &#x20;  \* module2
+6\. Created Pull Requests and merged branches into main.
 
-# 4\. Added files to individual module branches.
+7\. Resolved merge conflicts where required.
 
-# 5\. Committed and pushed changes.
+8\. Documented the workflow in README.md.
 
-# 6\. Created Pull Requests and merged branches into main.
-
-# 7\. Resolved merge conflicts where required.
-
-# 8\. Documented the workflow in README.md.
-
-# 
-
-# \## Repository Structure
-
-# 
-
-# 20-experiment/
-
-# ├── README.md
-
-# ├── module1/
-
-# │   └── file1.txt
-
-# └── module2/
-
-# └── file2.txt
-
-# 
-
-# \## Outcome
-
-# 
-
-# Successfully implemented version control using Git and GitHub by creating branches, merging changes, and maintaining project history.
+ 
+## Repository Structure
 
 
 
+## 20-experiment/
+
+  ├── README.md
+
+  ├── module1/
+
+  │   └── file1.txt
+
+  └── module2/
+
+  └── file2.txt
+
+ 
 
 
 
@@ -84,6 +68,11 @@ To implement version control using Git and GitHub.
 4. Pushed branches to GitHub.
 5. Merged module branches into main.
 6. Documented workflow using README.
+## Outcome
+
+ 
+ Successfully implemented version control using Git and GitHub by creating branches, merging changes, and maintaining project history.
+
 
 ## Repository Link
 
